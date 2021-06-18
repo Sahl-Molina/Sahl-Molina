@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahl-Molina
 - 👀 I’m interested in software development for the web. I’m passionate about having complex applications within the reach of a few clicks.
-- 🌱 I’m currently learning the MERN stack (MongoDB, Express Js, ReactJs, NodeJs) and other cool stuff ...
+- 🌱 I’m currently learning the MERN stack (MongoDB, ExpressJs, ReactJs, NodeJs) and other cool stuff ...
 - 💞️ I’m looking to collaborate on open source projects that benefit the developer community around the world.
 - 📫 How to reach me? You can email me at sahlmolinadev@gmail.com
 or find me on LinkedIn (www.linkedin.com/in/sahl-molina).
