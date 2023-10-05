@@ -1,6 +1,6 @@
-# 👋 **Hey there!** 
+# 👋 **Hello there!** 
 
-I'm @Sahl-Molina, a Backend Developer hailing from Argentina 🌟🌟🌟
+🙋🏻‍♂️ I'm @Sahl-Molina, a Backend Developer hailing from Argentina 🌟🌟🌟
 
 💛 Specializing in JavaScript and TypeScript, with a deep love for all things Node.js. Currently on an exciting journey to master .NET and C#.
 
